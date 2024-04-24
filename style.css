@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Arvo:ital@0;1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap');
+
+body{
+    background-color: rgb(255, 240, 224);
+    margin-top: 25px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+}
+
+
+h1 {
+    text-align: center;
+    color: rgb(79, 15, 181);
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 75pt;
+    margin-bottom: 0px;
+    margin-top: 10px;
+}
+
+
+h2{
+    text-align: center;
+    color: rgb(130, 81, 209);
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 30pt;
+}
+
+
+h3 {
+    color: rgb(79, 15, 181);
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    margin-top: 50px;
+    font-size: 25pt;
+}
+
+
+h4{
+    color: rgb(157, 112, 229);
+    font-family: "Arvo", serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-bottom: 0px;
+    margin-top: 15px;
+    text-decoration: none;
+}
+
+a{
+    color: rgb(157, 112, 229);
+    font-family: "Arvo", serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-bottom: 0px;
+    margin-top: 15px;
+}
+
+
+img{
+    height: 600px;
+    width: 600px;
+    border-radius: 50%;
+    display: block;
+    margin: auto;
+}
+
+
+p{
+    color: rgb(79, 15, 181);
+    font-family: "Arvo", serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.cuerpo{
+    margin-top: -25px;
+}
+
+
+a:any-link{
+    text-decoration: none;
+    
+}
+
+a:hover{
+    text-decoration: underline;
+    background-color:rgb(255, 230, 208)
+}
+
+#abajo{
+    margin-top: 50px;
+}
